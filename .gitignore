@@ -1,1 +1,4 @@
 node_modules
+bin/private.key
+bin/cert.cst
+bin/certificate.pem
